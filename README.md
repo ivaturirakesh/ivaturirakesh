@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivaturi Venkata Rakesh
 - 👀 I’m interested in Mechanical Engineering and Machine Learning
 - 🌱 I’m currently learning Simulations and Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Projects Related to Machine Learning and Simulations
 - 📫 How to reach me ivaturirakesh@gmail.com , +91 8179949352
 
 <!---
